@@ -22,7 +22,7 @@ A simple React application to browse movies, add them to a cart, and toggle dark
 ## Installation
 
 ### 1 Clone the repository:
-git clone git@github.com:nh-nahid/cine-rental.git </br> 
+git clone [git@github.com:nh-nahid/cine-rental.git](https://github.com/nh-nahid/cine-rental.git) </br> 
 cd cine-rental
 
 ### 2 Install dependencies:
