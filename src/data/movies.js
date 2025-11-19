@@ -10,15 +10,6 @@ const data = [
     },
     {
         "id": crypto.randomUUID(),
-        "cover": "marriage-strory.jpg",
-        "title": "Marriage Story",
-        "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
-        "genre": "Comedy/Drama",
-        "rating": 3,
-        "price": 90
-    },
-    {
-        "id": crypto.randomUUID(),
         "cover": "pain-and-gain.jpg",
         "title": "Pain & Gain",
         "description": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong.",

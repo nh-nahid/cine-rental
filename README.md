@@ -16,6 +16,9 @@ A simple React application to browse movies, add them to a cart, and toggle dark
 - Tailwind CSS v4
 - React Toastify for notifications
 
+## Project Live URL:
+<a href="https://cine-rental-lyart.vercel.app/">Click here</a> to explore the project.
+
 ## Installation
 
 ### 1 Clone the repository:
